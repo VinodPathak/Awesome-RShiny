@@ -13,6 +13,7 @@ RShiny Links\
 -https://github.com/grabear/awesome-rshiny  
 -https://demo.appsilondatascience.com/churn/  
 -https://divadnojnarg.github.io/blog/awesomedashboards/  
+-https://divadnojnarg.github.io/blog/bestofshiny/  
 
 Pakages
 -shiny  
