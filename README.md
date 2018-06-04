@@ -15,7 +15,7 @@ RShiny Links\
 -https://divadnojnarg.github.io/blog/awesomedashboards/  
 -https://divadnojnarg.github.io/blog/bestofshiny/  
 
-Pakages
+Pakages  
 -shiny  
 -shinydashboard  
 -shinyjs  
