@@ -14,6 +14,9 @@ RShiny Links\
 -https://demo.appsilondatascience.com/churn/  
 -https://divadnojnarg.github.io/blog/awesomedashboards/  
 -https://divadnojnarg.github.io/blog/bestofshiny/  
+-https://antoineguillot.wordpress.com/2017/03/01/three-r-shiny-tricks-to-make-your-shiny-app-shines-33-buttons-to-delete-edit-and-compare-datatable-rows/  
+-http://enhancedatascience.com/2017/03/01/three-r-shiny-tricks-to-make-your-shiny-app-shines-33-buttons-to-delete-edit-and-compare-datatable-rows/  
+
 
 Pakages  
 -shiny  
