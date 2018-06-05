@@ -16,6 +16,7 @@ RShiny Links\
 -https://divadnojnarg.github.io/blog/bestofshiny/  
 -https://antoineguillot.wordpress.com/2017/03/01/three-r-shiny-tricks-to-make-your-shiny-app-shines-33-buttons-to-delete-edit-and-compare-datatable-rows/  
 -http://enhancedatascience.com/2017/03/01/three-r-shiny-tricks-to-make-your-shiny-app-shines-33-buttons-to-delete-edit-and-compare-datatable-rows/  
+-http://enhancedatascience.com/2017/07/10/the-packages-you-need-for-your-r-shiny-application/  
 
 
 Pakages  
