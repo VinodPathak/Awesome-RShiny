@@ -37,3 +37,5 @@ Pakages
 -timevis  
 -shinytoastr  
 -shinysemantic  
+-shinywigets  
+
