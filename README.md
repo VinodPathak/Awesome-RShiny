@@ -40,3 +40,5 @@ Pakages
 -shinysemantic  
 -shinywigets  
 
+BigQuery R  
+-https://cloud.google.com/blog/big-data/2017/04/google-cloud-platform-for-data-scientists-using-r-with-google-bigquery  
